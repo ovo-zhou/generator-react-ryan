@@ -1,0 +1,19 @@
+{
+  "name": "generator-react-ryan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^7.1.1"
+  },
+  "type": "module"
+}
